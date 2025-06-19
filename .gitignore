@@ -1,0 +1,16 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+.venv/
+
+# Environment variables file
+.env
+
+# Data and log files
+*.csv
+*.json
+*.log
+*.db
